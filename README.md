@@ -39,7 +39,7 @@ O objetivo  é desenvolver uma API Rest para o cadastro de fornecedores, permiti
 
 ## Bônus
 - Implementação de Repository Pattern.
-- Implementação de testes automatizados (teste unitarios PHPUnit).
+- Implementação de testes automatizados (teste unitarios ).
 - Dockerização do ambiente de desenvolvimento.
 - Implementação de cache para otimizar o desempenho.
 
