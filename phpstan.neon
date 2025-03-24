@@ -1,0 +1,10 @@
+parameters:
+    level: 8
+    paths:
+        - app
+        - config
+        - routes
+    ignoreErrors:
+        - '#Call to an undefined static method Inertia\\Inertia::#'
+        - '#Undefined type Inertia\\Response#'
+        - '#Undefined type Inertia\\Inertia#'
